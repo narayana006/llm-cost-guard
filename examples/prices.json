@@ -1,0 +1,6 @@
+{
+  "models": {
+    "small-model": { "input": 0.50, "output": 1.50 },
+    "large-model": { "input": 5.00, "output": 15.00 }
+  }
+}
